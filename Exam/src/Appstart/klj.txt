@@ -1,0 +1,4 @@
+8;name of a good book?;HarryPotter;Lotr;hungerGames;Lotr;hard
+6;first satellite?;apollo;sputnik;idk;sputnik;hard
+10;how hard was the fp test?;veryhard;hard;easy;very;easy
+3;which number is prime?;1;2;4;2;easy

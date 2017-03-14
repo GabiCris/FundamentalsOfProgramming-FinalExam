@@ -1,0 +1,2 @@
+1;which number is biggest?;1;4;3;4;easy
+2;which number is smallest?;1;4;3;1;easy

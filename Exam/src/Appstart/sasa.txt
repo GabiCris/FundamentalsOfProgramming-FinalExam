@@ -1,0 +1,4 @@
+4;which number is div by 2?;2;1;3;2;medium
+5;which is a fish?;fp;asia;carp;carp;medium
+1;which number is biggest?;1;4;3;4;easy
+2;which number is smallest?;1;4;3;1;easy
